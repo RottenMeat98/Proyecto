@@ -1,0 +1,20 @@
+Html:
+<p>*TEXTO*</p>
+<a href="https://yugioh.fandom.com/es/wiki/Yu-Gi-Oh!_5D%27s/Lista_de_episodios">Link</a>
+<img src="https://source.unsplash.com/random" />
+<h1>Titulo</h1>
+id 100
+class 10
+p 1
+body 1
+
+3 clase
+configurando o vs code
+
+https://www.youtube.com/watch?v=DI6vNfHIqIg&t=39s&ab_channel=1hourforlowconnection
+
+https://twitter.com/Kirby_JP
+
+https://www.twitch.tv/directory/category/kirby-and-the-forgotten-land
+
+rgb(167,201,167)
